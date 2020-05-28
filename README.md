@@ -3,7 +3,7 @@
 import random<br>
 import argparse<br>
 
-RUN
+## RUN
 
 python3 randomgame.py [default]<br>
 
